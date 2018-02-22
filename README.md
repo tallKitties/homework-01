@@ -2,7 +2,7 @@
 
 ## Due Date
 
-TBD
+Thursday, February 22, 2018 @ 1:00 PM
 
 ## Goals
 
@@ -11,7 +11,7 @@ TBD
 
 ## Readings and Resources
 
-NA
+Rails Guides - http://guides.rubyonrails.org
 
 ## Project Setup
 
